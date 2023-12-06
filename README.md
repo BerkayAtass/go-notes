@@ -1,4 +1,7 @@
 # go-notes
+URL_Scanner (Fuzzing Tool)
+https://www.youtube.com/watch?v=qb9iCpicUPs
+
 
 web-scraper
 https://www.youtube.com/watch?v=qt-LevBc0jE
